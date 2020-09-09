@@ -1,2 +1,2 @@
-# Goal
-Repositório para o curso de android do Santander
+# Objetivo do Repositório
+Repositório para armazenar os exercícios do curso de programação mobile

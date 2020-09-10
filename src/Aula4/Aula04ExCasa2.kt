@@ -1,3 +1,5 @@
+package Aula4
+
 fun main() {
     print("Quanto vale sua hora? ")
     val ganhoPorHora = readLine()!!.toDouble()

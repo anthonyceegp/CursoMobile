@@ -1,3 +1,5 @@
+package Aula5
+
 fun main() {
     print("Digite um número: ")
     val numero = readLine()!!.toInt()

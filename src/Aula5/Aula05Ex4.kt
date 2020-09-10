@@ -1,3 +1,5 @@
+package Aula5
+
 fun main () {
     print("Quantas notas serão inseridas? ")
     val numeroNotas = readLine()!!.toInt()

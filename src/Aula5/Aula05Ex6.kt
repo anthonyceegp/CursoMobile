@@ -1,3 +1,5 @@
+package Aula5
+
 fun main() {
     print("Qual o número deseja ver a tabuada? ")
     val numeroTabuada = readLine()!!.toInt()

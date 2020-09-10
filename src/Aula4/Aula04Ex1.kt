@@ -1,3 +1,5 @@
+package Aula4
+
 fun main() {
     print("Digite a temperatura em graus Fahrenheit: ")
     val grausF = readLine()!!.toDouble()

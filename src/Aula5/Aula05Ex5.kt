@@ -1,3 +1,5 @@
+package Aula5
+
 fun main () {
     print("Quantidade de CDs? ")
     val quantCDs = readLine()!!.toInt()

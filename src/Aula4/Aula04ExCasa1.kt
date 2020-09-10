@@ -1,3 +1,5 @@
+package Aula4
+
 fun main() {
     print("Digite nota 1: ")
     val nota1 = readLine()!!.toDouble()

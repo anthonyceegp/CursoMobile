@@ -3,11 +3,11 @@ fun main() {
     print("Quanto você quer sacar: ")
     var valorSaque = readLine()!!.toInt()
 
-    var quantidadeNotaCem = 0
-    var quatidadeNotaCinquenta = 0
-    var quantidadeNotaDez = 0
-    var quantidadeNotaCinco = 0
-    var quantidadeNotaUm = 0
+    val quantidadeNotaCem: Int
+    val quatidadeNotaCinquenta: Int
+    val quantidadeNotaDez: Int
+    val quantidadeNotaCinco: Int
+    val quantidadeNotaUm: Int
     if (valorSaque < 10 || valorSaque > 600) {
         print("Valor de saque não permitido")
     } else {

@@ -1,4 +1,4 @@
-package Aula5
+package aula5
 
 fun main () {
     print("Quantidade de CDs? ")

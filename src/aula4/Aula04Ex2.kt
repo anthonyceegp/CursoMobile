@@ -1,4 +1,4 @@
-package Aula4
+package aula4
 
 fun main() {
     print("Quanto você ganha por hora: ")

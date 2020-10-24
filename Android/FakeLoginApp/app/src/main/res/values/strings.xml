@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FakeLoginApp</string>
+    <string name="login">LOGIN</string>
+    <string name="to_continue">TO CONTINUE</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="log_in">Log in</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="for_your_account">FOR YOUR ACCOUNT</string>
+    <string name="name">name</string>
+    <string name="agreement_check">I have read and agree the Privacy Policy</string>
+    <string name="field_required">This field is required</string>
+    <string name="successfully_registered">Successfully registered</string>
+    <string name="Invalid_email_password">Invalid email or password</string>
+    <string name="welcome">WELCOME</string>
+</resources>

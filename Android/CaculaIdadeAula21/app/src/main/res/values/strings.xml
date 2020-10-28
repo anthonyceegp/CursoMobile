@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CaculaIdadeAula21</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome">Nome</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="ano_nasc">Ano Nasc</string>
+</resources>
